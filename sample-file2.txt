@@ -48,3 +48,11 @@ git log
 git log --oneline
 	- condensed version of git log
 
+git push 
+	- uploading files/filders from local repo or remote repo
+
+git pull 
+	- retrives changes from a remote repo and merges them into your local repo
+
+git clone
+	- creating a copy of a remote repo on your local machine 
